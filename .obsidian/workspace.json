@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "30ea35e75c102f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e2dac50f24fb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad97b71d063a906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight"
+            }
+          },
+          {
+            "id": "8b66d5f039bcfb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight"
+            }
+          },
+          {
+            "id": "7c315996bf2c1777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Volleyball Systems - Defence (GDEP 2025-26)"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b71698753a4f5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e97567b633108b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4754eaf2cc7a12f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae68686a5c4c81d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b9dc966d7d810f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0cc18eb3ed794215",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a3ae0134d9482a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f32224cf61d35a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Volleyball Systems - Defence (GDEP 2025-26)"
+            }
+          },
+          {
+            "id": "6060aadbc6eeda25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Volleyball Systems - Defence (GDEP 2025-26)"
+            }
+          },
+          {
+            "id": "a6fc2d2c5e3cdc2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0081e4e745680661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Volleyball Systems - Defence (GDEP 2025-26)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c315996bf2c1777",
+  "lastOpenFiles": [
+    "3 - Tags/volleyball.md",
+    "6 - Main Notes/Untitled 1.base",
+    "6 - Main Notes/Untitled.base",
+    "6 - Main Notes/Dream Game.md",
+    "6 - Main Notes/Volleyball 14U Curriculum JVA.md",
+    "3 - Tags/voleibol.md",
+    "6 - Main Notes/Volleyball 13U Curriculum JVA.md",
+    "6 - Main Notes/Filosofia Pessoal - Treino de Voleibol.md",
+    "6 - Main Notes/Volleyball 12U Curriculum JVA.md",
+    "6 - Main Notes/Filosofia para treino de clube - Nuno Maria.md",
+    "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+    "1 - Rough Notes/Volleyball PT Férias.md",
+    "Volleyball Systems - Defense (GDEP 205/26).md",
+    "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
+    "Volleyball Systems - Defense (GDEP 205",
+    "6 - Main Notes/AAA combat interactions for your Godot game (Part 4) - By Fair Fight.md",
+    "6 - Main Notes/Build your Godot characters like AAA titles do (Part 2) - by Fair Fight.md",
+    "6 - Main Notes/Use professional AAA practices in your Godot game NOW (Part 1) - by Fair Fight.md",
+    "3 - Tags/game dev.md",
+    "3 - Tags/ai note.md",
+    "6 - Main Notes/american scholl.md",
+    "2 - Source Material/Articles/14U_JVA_Training_Curriculum.pdf",
+    "2 - Source Material/Articles/JVA-Club-12U-Program-Curriculum.pdf",
+    "3 - Tags/learning.md",
+    "2 - Source Material/Articles/JVA-Club-13U-Program-Curriculum.pdf",
+    "6 - Main Notes/Third Person Controller by Jonhy Roudro.md",
+    "6 - Main Notes/Game Dev Initial Development Notes - Spreadsheet.md",
+    "6 - Main Notes/Godot Dev Recreating Zelda by Clear Code.md",
+    "6 - Main Notes/Godot - Third Person Controller Tutorial ( 2023 ) by Lukky.md",
+    "6 - Main Notes/Godot Tips.md",
+    "6 - Main Notes/Live.md",
+    "2 - Source Material/Images/Pasted image 20251111093012.png",
+    "2 - Source Material/Images",
+    "Guidebook.canvas",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d64472e36d93c944","x":-460,"y":-280,"width":250,"height":60,"type":"text","text":"Workflow"},
+		{"id":"d38ebe96bb0ebc59","x":-427,"y":-83,"width":250,"height":60,"type":"text","text":"Use template"},
+		{"id":"4ef89410f9c644ef","x":-95,"y":-291,"width":250,"height":60,"type":"text","text":"Go wild"}
+	],
+	"edges":[
+		{"id":"5c93c0772f7560f3","fromNode":"d64472e36d93c944","fromSide":"bottom","toNode":"d38ebe96bb0ebc59","toSide":"top"},
+		{"id":"647bb6a4028e0816","fromNode":"d38ebe96bb0ebc59","fromSide":"right","toNode":"4ef89410f9c644ef","toSide":"left"}
+	]
+}
