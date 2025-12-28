@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[volleyball]] [[treinador]]
+Tags: [[volleyball]] [[coaching]]
 
 # Filosofia Pessoal - Treino de Voleibol
 

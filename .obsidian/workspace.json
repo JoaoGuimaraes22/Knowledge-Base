@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13e2dac50f24fb1c",
+        "id": "4d77fbf970e23f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ad97b71d063a906",
+            "id": "bd2ad9c57bc777f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
+                "file": "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight"
-            }
-          },
-          {
-            "id": "8b66d5f039bcfb6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight"
-            }
-          },
-          {
-            "id": "7c315996bf2c1777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Volleyball Systems - Defence (GDEP 2025-26)"
+              "title": "How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Volleyball Systems - Defence (GDEP 2025-26)"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,12 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Volleyball Systems - Defence (GDEP 2025-26)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
+                "file": "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Volleyball Systems - Defence (GDEP 2025-26)"
+              "title": "Outline of How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly"
             }
           }
         ],
@@ -229,20 +178,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c315996bf2c1777",
+  "active": "4754eaf2cc7a12f9",
   "lastOpenFiles": [
+    "2 - Source Material/Images/Pasted image 20251228001640.png",
+    "2 - Source Material/Images/Pasted image 20251228001302.png",
+    "6 - Main Notes/Volleyball Reference Material.md",
+    "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
+    "6 - Main Notes/Volleyball Systems - Defense (GDEP 2025-26).md",
+    "2 - Source Material/Images/Defesa Base.png",
+    "2 - Source Material/Images/Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
+    "3 - Tags/volleyball defense.md",
+    "Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
+    "2 - Source Material/Images/Pasted image 20251111093012.png",
+    "6 - Main Notes/Filosofia para treino de clube - Nuno Maria.md",
+    "6 - Main Notes/Filosofia Pessoal - Treino de Voleibol.md",
+    "6 - Main Notes/Obsidian - Basic Workflow.md",
+    "3 - Tags/obsidian.md",
+    "3 - Tags/project.md",
     "3 - Tags/volleyball.md",
+    "3 - Tags/volleyball systems.md",
+    "1 - Rough Notes/Volleyball PT Férias.md",
+    "Guidebook.canvas",
+    "6 - Main Notes/Volleyball 14U Curriculum JVA.md",
+    "3 - Tags/treinador.md",
+    "6 - Main Notes/Volleyball 13U Curriculum JVA.md",
+    "6 - Main Notes/Volleyball 12U Curriculum JVA.md",
+    "3 - Tags/coaching.md",
     "6 - Main Notes/Untitled 1.base",
     "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Dream Game.md",
-    "6 - Main Notes/Volleyball 14U Curriculum JVA.md",
     "3 - Tags/voleibol.md",
-    "6 - Main Notes/Volleyball 13U Curriculum JVA.md",
-    "6 - Main Notes/Filosofia Pessoal - Treino de Voleibol.md",
-    "6 - Main Notes/Volleyball 12U Curriculum JVA.md",
-    "6 - Main Notes/Filosofia para treino de clube - Nuno Maria.md",
-    "6 - Main Notes/Volleyball Systems - Defence (GDEP 2025-26).md",
-    "1 - Rough Notes/Volleyball PT Férias.md",
     "Volleyball Systems - Defense (GDEP 205/26).md",
     "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
     "Volleyball Systems - Defense (GDEP 205",
@@ -250,21 +215,10 @@
     "6 - Main Notes/Build your Godot characters like AAA titles do (Part 2) - by Fair Fight.md",
     "6 - Main Notes/Use professional AAA practices in your Godot game NOW (Part 1) - by Fair Fight.md",
     "3 - Tags/game dev.md",
-    "3 - Tags/ai note.md",
-    "6 - Main Notes/american scholl.md",
     "2 - Source Material/Articles/14U_JVA_Training_Curriculum.pdf",
     "2 - Source Material/Articles/JVA-Club-12U-Program-Curriculum.pdf",
-    "3 - Tags/learning.md",
     "2 - Source Material/Articles/JVA-Club-13U-Program-Curriculum.pdf",
-    "6 - Main Notes/Third Person Controller by Jonhy Roudro.md",
-    "6 - Main Notes/Game Dev Initial Development Notes - Spreadsheet.md",
-    "6 - Main Notes/Godot Dev Recreating Zelda by Clear Code.md",
-    "6 - Main Notes/Godot - Third Person Controller Tutorial ( 2023 ) by Lukky.md",
-    "6 - Main Notes/Godot Tips.md",
-    "6 - Main Notes/Live.md",
-    "2 - Source Material/Images/Pasted image 20251111093012.png",
     "2 - Source Material/Images",
-    "Guidebook.canvas",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes"
