@@ -9,8 +9,10 @@ Tags: [[obsidian]]
 
 1. Create or find note . Ctrl + O
 2. Use template Ctrl + T
+3. Use tags with double brackets 
+4. 
 # References
 
-
+https://www.youtube.com/watch?v=hSTy_BInQs8&t=1375s
 
 

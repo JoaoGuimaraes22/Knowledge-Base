@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d77fbf970e23f1b",
+        "id": "763bc62533e1ae03",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2ad9c57bc777f5",
+            "id": "e4ca2abcda2350c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
+                "file": "6 - Main Notes/Karch Kiraly coaches clinic volleyball lecture part 1 - Passing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly"
+              "title": "Karch Kiraly coaches clinic volleyball lecture part 1 - Passing"
+            }
+          },
+          {
+            "id": "bf3a66dc30a22c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Karch Kiraly - Transitions Through Decades (Volleyball).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Karch Kiraly - Transitions Through Decades (Volleyball)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,49 +204,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "4754eaf2cc7a12f9",
+  "active": "bf3a66dc30a22c91",
   "lastOpenFiles": [
-    "2 - Source Material/Images/Pasted image 20251228001640.png",
-    "2 - Source Material/Images/Pasted image 20251228001302.png",
-    "6 - Main Notes/Volleyball Reference Material.md",
-    "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
-    "6 - Main Notes/Volleyball Systems - Defense (GDEP 2025-26).md",
-    "2 - Source Material/Images/Defesa Base.png",
-    "2 - Source Material/Images/Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
-    "3 - Tags/volleyball defense.md",
-    "Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
-    "2 - Source Material/Images/Pasted image 20251111093012.png",
-    "6 - Main Notes/Filosofia para treino de clube - Nuno Maria.md",
+    "2 - Source Material/Other/HORÁRIO ÉPOCA 2025-2026 DEFINITIVO (1).pdf",
+    "6 - Main Notes/Ciclo de Desenvolvimento do Treinador.md",
+    "3 - Tags/Karch Kiraly.md",
+    "4 - Indexes/volleyball.md",
     "6 - Main Notes/Filosofia Pessoal - Treino de Voleibol.md",
+    "6 - Main Notes/Filosofia para treino de clube - Nuno Maria.md",
+    "3 - Tags/Nuno Maria.md",
+    "6 - Main Notes/Karch Kiraly - Transitions Through Decades (Volleyball).md",
+    "6 - Main Notes/Karch Kiraly coaches clinic volleyball lecture part 1 - Passing.md",
+    "3 - Tags/coaching.md",
+    "6 - Main Notes/Príncipios De Aprendizagem e Mentalidade De Crescimento.md",
     "6 - Main Notes/Obsidian - Basic Workflow.md",
     "3 - Tags/obsidian.md",
-    "3 - Tags/project.md",
-    "3 - Tags/volleyball.md",
-    "3 - Tags/volleyball systems.md",
-    "1 - Rough Notes/Volleyball PT Férias.md",
-    "Guidebook.canvas",
-    "6 - Main Notes/Volleyball 14U Curriculum JVA.md",
-    "3 - Tags/treinador.md",
-    "6 - Main Notes/Volleyball 13U Curriculum JVA.md",
     "6 - Main Notes/Volleyball 12U Curriculum JVA.md",
-    "3 - Tags/coaching.md",
+    "3 - Tags/volleyball systems.md",
+    "6 - Main Notes/Volleyball 14U Curriculum JVA.md",
+    "6 - Main Notes/How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly.md",
+    "6 - Main Notes/AAA combat interactions for your Godot game (Part 4) - By Fair Fight.md",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Volleyball Reference Material.md",
+    "Reception.drawio.png",
+    "2 - Source Material/Images/Pasted image 20251230145650.png",
+    "3 - Tags/volleyball reading.md",
+    "6 - Main Notes/Volleyball 13U Curriculum JVA.md",
+    "3 - Tags/learning.md",
+    "3 - Tags/volleyball setting.md",
+    "3 - Tags/volleyball spiking.md",
+    "3 - Tags/volleyball passing.md",
+    "2 - Source Material/Documents/HORÁRIO 2025-2026 NOVO 1.pdf",
+    "2 - Source Material/Documents/Template_Plano_Desenvolvimento_Pessoal 1.docx.pdf",
+    "2 - Source Material/Images/Bola Morta (Organização Base).png",
+    "2 - Source Material/Documents/Template_Plano_Desenvolvimento_Pessoal 1.docx",
+    "2 - Source Material/Documents/Template_Plano_Desenvolvimento_Pessoal.docx",
+    "2 - Source Material/Documents",
+    "2 - Source Material/Images/Pasted image 20251228001640.png",
+    "2 - Source Material/Images/Pasted image 20251228001302.png",
+    "2 - Source Material/Images/Defesa Base.png",
+    "2 - Source Material/Images/Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
+    "Defesa vs Z4 - Bola A (Bloco linha ; Rotacional).png",
+    "2 - Source Material/Images/Pasted image 20251111093012.png",
+    "Guidebook.canvas",
     "6 - Main Notes/Untitled 1.base",
     "6 - Main Notes/Untitled.base",
-    "6 - Main Notes/Dream Game.md",
-    "3 - Tags/voleibol.md",
-    "Volleyball Systems - Defense (GDEP 205/26).md",
-    "6 - Main Notes/How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight.md",
     "Volleyball Systems - Defense (GDEP 205",
-    "6 - Main Notes/AAA combat interactions for your Godot game (Part 4) - By Fair Fight.md",
-    "6 - Main Notes/Build your Godot characters like AAA titles do (Part 2) - by Fair Fight.md",
-    "6 - Main Notes/Use professional AAA practices in your Godot game NOW (Part 1) - by Fair Fight.md",
-    "3 - Tags/game dev.md",
-    "2 - Source Material/Articles/14U_JVA_Training_Curriculum.pdf",
-    "2 - Source Material/Articles/JVA-Club-12U-Program-Curriculum.pdf",
-    "2 - Source Material/Articles/JVA-Club-13U-Program-Curriculum.pdf",
-    "2 - Source Material/Images",
-    "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes"
+    "2 - Source Material/Articles/14U_JVA_Training_Curriculum.pdf"
   ]
 }

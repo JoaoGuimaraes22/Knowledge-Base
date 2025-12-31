@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags: [[volleyball]] [[coaching]]
+Tags: [[volleyball]] [[volleyball systems]] [[coaching]]
 
 # # Currículo de Treino JVA
 

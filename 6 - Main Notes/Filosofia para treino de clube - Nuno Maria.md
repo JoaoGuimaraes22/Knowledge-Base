@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[volleyball]] [[coaching]]
+Tags: [[volleyball]] [[coaching]] [[Nuno Maria]]
 
 # Filosofia de treino
 

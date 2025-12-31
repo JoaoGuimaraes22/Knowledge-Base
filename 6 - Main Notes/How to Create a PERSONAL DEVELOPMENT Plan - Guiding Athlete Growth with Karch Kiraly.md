@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[volleyball]] [[coaching]]
+Tags: [[volleyball]] [[coaching]] [[Karch Kiraly]]
 
 # How to Create a PERSONAL DEVELOPMENT Plan - Guiding Athlete Growth with Karch Kiraly
 
@@ -51,6 +51,12 @@ Tags: [[volleyball]] [[coaching]]
 	- **Pessoais ou Desportivos**
 		- Pessoal - ex. Quero me tornar num melhor ouvinte
 
+- Como iniciar a conversa?
+	- Exemplos de **perguntas abertas específicas**:
+		- "Se pudesses melhorar uma coisa no teu jogo nas próximas 4 semanas, o que seria?"
+		- "O que te faz sentir mais confiante em campo?"
+		- "Qual foi um momento recente onde sentiste que jogaste ao teu melhor?"
+
 ## Build a Framework
 
 ### Pontos fortes: (ás vezes uma pergunta desconfortável)
@@ -97,14 +103,61 @@ Tags: [[volleyball]] [[coaching]]
 			- Se fizeres isto nas próximas 2 semanas, vais ter 140 mins extra!
 			- 2h20 extra treino naquela componente
 
+- Como envolver (ou não) os pais neste processo?
+	- O que partilhar com eles?
+	- Como evitar que se tornem "polícia" do plano?
+	- Como usar o envolvimento deles de forma positiva?
+
+- Como partilhar progressos individuais que beneficiem a equipa?
+	- Sessões em grupo para partilhar aprendizagens?
+	- Como criar cultura de apoio mútuo nos planos individuais?
+
 ### Obstáculos
 
 - O que é que te pode atrapalhar?
 	- "Eu quero melhorar a minha técnica de ataque?"
 		- Preciso de espaço e tempo
+- Quando é que o plano **NÃO está a funcionar**?
+	- Objetivos demasiado vagos ("quero melhorar")
+	- Falta de ownership (atleta só responde o que acha que queres ouvir)
+	- Objetivos apenas impostos externamente (pais, treinador)
+	- Planos irrealistas que geram frustração
 
-### Exemplos de ajuda guiada
+### Secção de Follow-up / Acompanhamento
 
+- Como manter o processo vivo?
+	- Com que frequência rever o plano? (sugestão: bi-semanal ou mensal)
+	- Como fazer check-ins sem ser invasivo?
+	- Como celebrar progressos pequenos?
+	- Quando ajustar objetivos que não estão a funcionar?
+
+- Como saber se esta abordagem está a funcionar:
+	- Aumento de autonomia nas atletas?
+	- Mais perguntas/curiosidade no treino?
+	- Menos dependência do "diz-me o que fazer"?
+	- Melhoria na motivação intrínseca?
+
+## Ferramentas práticas
+
+- Templates ou formatos concretos:
+	- Template de Personal Development Plan (1 página)
+		- [[Template_Plano_Desenvolvimento_Pessoal 1.docx.pdf]]
+	- Exemplo de diário de reflexão semanal
+	- Checklist de compromissos
+	- Sistema de tracking visual (gráficos simples)
+
+## Exemplos de ajuda guiada
+
+- Exemplos de perguntas dos 5 pilares
+- **Team/Equipa:**
+	- "Quero ser uma melhor comunicadora em campo" → plano de ação específico
+- **Body/Corpo:**
+	- "Quero melhorar a minha explosão vertical" → programa de saltos progressivo
+- **Mind/Mente:**
+	- "Quero manter a calma em pontos decisivos" → técnicas de respiração/visualização
+- **Heart/Coração:**
+	- "Quero recuperar mais rápido de erros" → rotinas pós-erro
+	
 - **Gráficos**
 	- "Eu quero atacar com mais diversidade"
 	- Ok, precisas de fazer X ou Y - não
@@ -131,6 +184,16 @@ Tags: [[volleyball]] [[coaching]]
 - **Potência: construir um plano com força/condicionamento individual com foco**
 	- Central quer chegar mais rápido á ponta? Como
 
+## Erros Comuns do Treinador
+Avisos práticos:
+
+- ❌ Fazer perguntas mas depois dar a resposta na mesma
+- ❌ Fazer o plano "por elas" para poupar tempo
+- ❌ Julgar objetivos que parecem "pequenos"
+- ❌ Não dar tempo suficiente para elas pensarem
+- ✅ Ser paciente com o silêncio
+- ✅ Validar o processo mesmo quando não concordas totalmente
+
 ## Conclusões
 
 - Fazer questões explorativas. 
@@ -146,4 +209,5 @@ Tags: [[volleyball]] [[coaching]]
 
 https://www.youtube.com/watch?v=1YRVW_RHN-g
 
+[[Template_Plano_Desenvolvimento_Pessoal 1.docx.pdf]]
 
