@@ -106,7 +106,7 @@ The video concludes by appreciating Godot’s powerful animation interface, whic
 
 [[Use professional AAA practices in your Godot game NOW (Part 1) - by Fair Fight]]
 
-[[How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight]]
+[[Character Controller (Part 3) - by Fair Fight]]
 
 https://www.youtube.com/watch?v=kK5NXyIsEQI&list=PLzia-gCwY2G2AXn2hvAjKzLH2_rCvVQFQ&index=2
 

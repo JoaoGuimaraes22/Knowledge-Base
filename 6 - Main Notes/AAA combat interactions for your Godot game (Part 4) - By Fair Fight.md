@@ -135,7 +135,7 @@ The video offers a **robust, architecturally sound approach to character combat 
 
 # References
 
-[[How to build AAA combat under 15 minutes in Godot (Part 3) - by Fair Fight]]
+[[Character Controller (Part 3) - by Fair Fight]]
 
 https://www.youtube.com/watch?v=b3uFSh3GASs&list=PLzia-gCwY2G2AXn2hvAjKzLH2_rCvVQFQ&index=4
 
